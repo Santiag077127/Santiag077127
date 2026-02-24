@@ -1,12 +1,20 @@
-## Santiago Gordo Perez
+## Santiago Gordo Pérez
 
 ## 🗒 Sobre mi
 
-Actualmente estoy estudiando un tecnologo en Analisis y Desarrollo de Software en el SENA, soy una persona que le apasiona
-aprender nuevos lenguajes de programacion, 
+Actualmente estoy estudiando el tecnologo en Analisis y Desarrollo de Software en el SENA,
+manejo java,lo basico de Sprint boot, base de datos como SQLServer MySQL me estoy formando
+para poder llegar hacer un desarrollador Full Stack.  
+
+##
 
 ## 🎓 Edudacion
+Bachillerato
 Tecnico en programacion de software
+
+## GitHub Stats
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiag077127&show_icons=true&theme=tokyonight)
 
 ## Contacto
 Correo: santiagogordoperez77@gmail.com
