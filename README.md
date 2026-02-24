@@ -21,7 +21,7 @@ Bachillerato
 
 Tecnico en programacion de software
 
-## GitHub Stats
+## 🔥 GitHub Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Santiag077127&theme=tokyonight)
 
@@ -30,3 +30,6 @@ Tecnico en programacion de software
 
 ## Contacto
 Correo: santiagogordoperez77@gmail.com
+
+Linkedin: www.linkedin.com/in/santiago-gordo-perez
+
