@@ -19,7 +19,7 @@ formando para poder llegar hacer un desarrollador Full Stack.
 ##
 
 ## 🎓 Edudacion
-Bachillerato
+Bachiller Academico
 
 Tecnico en programacion de software
 
