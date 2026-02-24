@@ -4,14 +4,16 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## 🗒 Sobre mi
 
 Actualmente estoy estudiando el tecnologo en Analisis y Desarrollo de Software en el SENA,
 
-manejo java,lo basico de Sprint boot, base de datos como SQLServer MySQL me estoy formando
+manejo java, python, lo basico de Sprint boot, base de datos como MySQL y PostgresSQL y me estoy 
 
-para poder llegar hacer un desarrollador Full Stack.  
+formando para poder llegar hacer un desarrollador Full Stack.  
 
 ##
 
