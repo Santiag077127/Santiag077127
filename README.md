@@ -10,6 +10,10 @@ para poder llegar hacer un desarrollador Full Stack.
 
 ## 🎓 Edudacion
 Bachillerato
+
+
+
+
 Tecnico en programacion de software
 
 ## GitHub Stats
