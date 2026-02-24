@@ -14,7 +14,7 @@ Tecnico en programacion de software
 
 ## GitHub Stats
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Santiag077127&show_icons=true&theme=tokyonight)
+![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=Santiag077127&layout=compact&theme=tokyonight)
 
 ## Contacto
 Correo: santiagogordoperez77@gmail.com
