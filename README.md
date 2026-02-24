@@ -5,7 +5,7 @@
 Actualmente estoy estudiando un tecnologo en Analisis y Desarrollo de Software en el SENA, soy una persona que le apasiona
 aprender nuevos lenguajes de programacion, 
 
-## Edudacion
+## 🎓 Edudacion
 Tecnico en programacion de software
 
 ## Contacto
