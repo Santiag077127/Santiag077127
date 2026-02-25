@@ -25,10 +25,12 @@ Tecnico en programacion de software
 
 ## 🔥 GitHub Stats
 
-## Habiidades
+## 💡 Habiidades
 
 Resolución de problemas y pensamiento crítico
+
 Comunicación efectiva y trabajo en equipo
+
 Creatividad e innovación
 
 
