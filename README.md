@@ -25,6 +25,13 @@ Tecnico en programacion de software
 
 ## 🔥 GitHub Stats
 
+## Habiidades
+
+Resolución de problemas y pensamiento crítico
+Comunicación efectiva y trabajo en equipo
+Creatividad e innovación
+
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=Santiag077127&theme=tokyonight)
 
 
